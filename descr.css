@@ -1,0 +1,39 @@
+
+.back{
+	background-image: url(itff.jpg);
+	background-size: 100% 100%;
+
+}
+.df{
+	display: flex;
+	margin-top: 100px;
+}
+.p1{
+	color: #a81e1e;
+	margin-left: 530px;
+	font-weight: 550;
+}
+.p2{
+	color: #e5c13d;
+	margin-left: 200px;
+}
+body{
+	font-family: lucida sans unicode;
+}
+.top{
+    height: 100px;
+ }
+ a{
+        	color: white;
+        	text-decoration: none;
+        	margin-left: 195px;
+        	padding-top: 40px;
+        	padding-bottom: 40px;
+        	font-size: 20px;
+        }
+.desc{
+	color: #a55417;
+padding-left: 300px;
+padding-right: 300px;
+padding-top: 50px;
+}        

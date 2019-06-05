@@ -1,0 +1,24 @@
+.top{
+        	height: 100px;
+        	background-color: #161616;
+        }
+        a{
+        	color: white;
+        	text-decoration: none;
+        	margin-left: 195px;
+        	padding-top: 40px;
+        	padding-bottom: 40px;
+        	font-size: 20px;
+        }
+        .df{
+	display: flex;
+}
+.img{
+	margin-left: 130px;
+	margin-top: 80px;
+	height: 240px;
+	width: 360px;
+}
+.back{
+	background-color:#916a67;
+}
